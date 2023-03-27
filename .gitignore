@@ -3,4 +3,8 @@ dataset/spam-dataset/*
 *.pyc
 hello
 jj
+<<<<<<< HEAD
 fdk
+=======
+jhjn
+>>>>>>> copy
